@@ -67,3 +67,5 @@
   * **mochawesome-report-generator** -> Biblioteca para gerar o relatório em html usando os arquivos ".json" gerados
     * Pode ser referenciada no código pelo alias "marge"
   * **rimraf** -> Biblioteca que adiciona o comando "rm -rf" para node (independente do S.O.)
+
+>Relatório HTML --> ronaldotpinto.github.io/semana-agilizei-02
