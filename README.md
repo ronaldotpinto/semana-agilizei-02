@@ -68,4 +68,4 @@
     * Pode ser referenciada no código pelo alias "marge"
   * **rimraf** -> Biblioteca que adiciona o comando "rm -rf" para node (independente do S.O.)
 
->Relatório HTML --> ronaldotpinto.github.io/semana-agilizei-02
+> --> [Relatório HTML com o resultado dos Testes](https://ronaldotpinto.github.io/semana-agilizei-02/)
